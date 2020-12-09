@@ -1,0 +1,9 @@
+com/example/demo/DemoApplication.class
+com/example/demo/LabsRepository.class
+com/example/demo/LoadDatabaseHospitals.class
+com/example/demo/LabsController.class
+com/example/demo/Hospitals.class
+com/example/demo/LoadDatabaseLabs.class
+com/example/demo/HospitalsController.class
+com/example/demo/Labs.class
+com/example/demo/HospitalsRepository.class
