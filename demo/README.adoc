@@ -8,7 +8,7 @@ A covid-19 tool, which can be used by hospitals for assigning sample to the lab 
 ====
 * goto http://localhost:8080/hospitals to get all the details for hospitals.
 * http://localhost:8080/labs for information about labs.
-* http://localhost:8080/hospitals/${id} for nearest covid 19 testing facility which has minimum response time.
+* http://localhost:8080/hospitals/${id} for nearest covid 19 testing facility which has minimum response time for the particular hospital.
 ====
 
 I have used Java and Spring framework for this project. It was felt luxorious working in Java after working in C++ for a very long time :).
