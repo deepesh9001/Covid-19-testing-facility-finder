@@ -1,0 +1,10 @@
+<h1> 1. About the project </h1>
+<p> A covid-19 tool, which can be used by hospitals for assigning sample to the lab with shortest response time. Running this project is very simple, first make sure you have JDK 11 installed on your computer, I recommend <a href="https://openjdk.java.net/install/"> OpenJDK 11</a>. Download the code and run the ./mvnw spring-boot:run command in the from the home directory in the terminal. After the command is successful, 
+
+<ul>
+<li>goto http://localhost:8080/hospitals to get all the details for hospitals.</li>
+<li>http://localhost:8080/labs for information about labs</li>
+<li>http://localhost:8080/hospitals/${id} for nearest covid 19 testing facility which has minimum response time.
+</ul>
+
+I have used Java and Spring framework for this project. It was felt luxorious working in Java after working in C++ for a very long time :).
